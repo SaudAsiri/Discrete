@@ -23,7 +23,6 @@ def dijkstra(graph, start):
     
     return distances
 
-pritn("akmfiafma")
 def main():
     print("Welcome to Dijkstra's Algorithm!")
     n = int(input("Enter the number of nodes in the graph: "))
